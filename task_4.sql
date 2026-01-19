@@ -1,5 +1,4 @@
-USE alx_book_store;
-
+-- Use INFORMATION_SCHEMA to fetch full table metadata
 SELECT 
     COLUMN_NAME, 
     COLUMN_TYPE, 
